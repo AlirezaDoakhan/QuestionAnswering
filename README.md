@@ -159,7 +159,7 @@
 |151|**Knowledge graph question answering based on multi-granularity feature representation**|S Cun|_2018_|[]()|
 |152|**Textbook question answering with knowledge graph understanding and unsupervised open-set text comprehension**|D Kim, S Kim, N Kwak|_2018_|[]()|
 |153|**Complex sequential question answering: Towards learning to converse over linked question answer pairs with a knowledge graph**|S Amrita, P Vardaan, S Karthik, C Sarath|_2018_|[]()|
-|154|**Complex sequential question answering: Towards learning to converse over linked question answer pairs with a knowledge graph. arXiv preprint arXiv …**|A Saha, V Pahuja, MM Khapra, K Sankaranarayanan…|_2018_|[]()|
+|154|**Complex sequential question answering: Towards learning to converse over linked question answer pairs with a knowledge graph.**|A Saha, V Pahuja, MM Khapra, K Sankaranarayanan…|_2018_|[]()|
 |155|**Question Answering System Based on Military Knowledge Graph**|X Dou, T Liu, Z Zhang|_2018_|[]()|
 |156|**Research on intelligent question answering system based on knowledge graph [J]**|ZY Chen, Y Shang, DM Qian|_2018_|[]()|
 |157|**Design of intelligent question answering system based on big data knowledge graph of packaging industry [J]**|Y Fangquan|_2018_|[]()|
@@ -187,5 +187,5 @@
 |179|**Relational Graph Reasoning for Knowledge-Augmented Question Answering**|J Yan|__|[](https://shanzhenren.github.io/csci-699-replnlp-2019fall/reports/Jun_Yan.pdf)|
 |180|**Research internship: Knowledge Graph for Conversational Question Answering**|V et Pays|__|[]()|
 |181|**Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base Supplementary Notes**|WYMW Chang, XHJ Gao|__|[](https://aclanthology.org/attachments/P15-1128.Notes.pdf)|
-|182|**KBQA: Learning question answering over QA corpora and knowledge bases. arXiv 2019**|W Cui, Y Xiao, H Wang, Y Song, S Hwang, W Wang|__|[]()|
+|182|**KBQA: Learning question answering over QA corpora and knowledge bases**|W Cui, Y Xiao, H Wang, Y Song, S Hwang, W Wang|_2019_|[]()|
 
