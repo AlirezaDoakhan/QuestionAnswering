@@ -187,5 +187,3 @@
 |179|**Relational Graph Reasoning for Knowledge-Augmented Question Answering**|J Yan|__|[](https://shanzhenren.github.io/csci-699-replnlp-2019fall/reports/Jun_Yan.pdf)|
 |180|**Research internship: Knowledge Graph for Conversational Question Answering**|V et Pays|__|[]()|
 |181|**Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base Supplementary Notes**|WYMW Chang, XHJ Gao|__|[](https://aclanthology.org/attachments/P15-1128.Notes.pdf)|
-|182|**KBQA: Learning question answering over QA corpora and knowledge bases**|W Cui, Y Xiao, H Wang, Y Song, S Hwang, W Wang|_2019_|[]()|
-
