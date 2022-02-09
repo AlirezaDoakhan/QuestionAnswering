@@ -118,7 +118,7 @@
 |110|**HDKG: Hybrid domain features knowledge graph smart question answering system**|G Tan|_2020_|[]()|
 |111|**Question Answering over Knowledge Graphs Using Bilinear Graph Neural Network**|S Lee, I Kim|_2020_|[koreascience](https://www.koreascience.or.kr/article/CFKO202024664105386.page)|
 |112|**Hybrid domain feature knowledge graph smart question answering system**|TAN Gang, C Yu, P Yunzhu|_2020_|[]()|
-|113|**RESEARCH ON KNOWLEDGE QUESTION ANSWERING SYSTEM FOR AGRICULTURE DISEASE AND PESTS BASED ON KNOWLEDGE GRAPH**|Y Xia, N Sun, H Wang, X Yuan…|_2020_|[yokohama]()|
+|113|**research on knowledge question answering system for agriculture disease and pests based on knowledge graph**|Y Xia, N Sun, H Wang, X Yuan…|_2020_|[yokohama]()|
 |114|**Development of Interactive Tutoring System with Question Answering Function based on Knowledge Graph 知識グラフに基づく質問応答機能を備えた三者 …**|T Kojima, T Iida, D Teranishi, M Araki|_2020_|[philpapers](https://philpapers.org/rec/KOJDOI)|
 |115|**Knowledge graph embedding based question answering**|X Huang, J Zhang, D Li, P Li|_2019_|[acm](https://dl.acm.org/doi/abs/10.1145/3289600.3290956)|
 |116|**Leveraging domain context for question answering over knowledge graph**|P Tong, Q Zhang, J Yao|_2019_|[springer](https://link.springer.com/article/10.1007/s41019-019-00109-w)|
